@@ -1,0 +1,98 @@
+{
+  "key": "crateco",
+  "name": "CRATE.CO",
+  "kind": "online snacks and drinks store",
+  "title": "CRATE.CO | Snacks and Drinks by the Pack, the Carton and the Hamper",
+  "description": "Snacks, biscuits, soft drinks, juices, wines, spirits and hampers, delivered across Nigeria.",
+  "tagline": "Snacks, drinks and hampers for every day and every celebration, delivered across Nigeria.",
+  "hero": {
+    "title": "STOCK UP FOR EVERY OCCASION",
+    "subtitle": "Snacks, soft drinks, juices, wines and hampers by the pack or the carton. Order once and we bring it to your door.",
+    "cta": "Shop Now",
+    "image": "/images/hero/hero.webp",
+    "cutout": false
+  },
+  "theme": {
+    "accent": "#C2410C",
+    "accentHover": "#9A3412",
+    "accentInk": "#ffffff",
+    "surface": "#FBF1E7",
+    "card": "#FAF3EA",
+    "hero": "#FCF2E6"
+  },
+  "option1": {
+    "label": "Pack",
+    "plural": "Packs",
+    "none": "Standard",
+    "choices": [
+      "Single",
+      "Pack of 3",
+      "Pack of 6",
+      "Pack of 12",
+      "Carton of 24",
+      "Case of 6"
+    ],
+    "help": ""
+  },
+  "option2": {
+    "label": "Flavour",
+    "plural": "Flavours",
+    "none": "Default",
+    "swatch": false,
+    "placeholder": "e.g. Coconut"
+  },
+  "style": {
+    "enabled": true,
+    "label": "Occasion",
+    "plural": "Occasions",
+    "short": "Occasion",
+    "browseTitle": "SHOP BY OCCASION",
+    "values": [
+      "Everyday",
+      "Parties",
+      "Gifting",
+      "Celebrations"
+    ],
+    "images": {
+      "everyday": "/images/styles/everyday.webp",
+      "parties": "/images/styles/parties.webp",
+      "gifting": "/images/styles/gifting.webp",
+      "celebrations": "/images/styles/celebrations.webp"
+    }
+  },
+  "specs": {
+    "label": "Product details",
+    "suggested": [
+      "Net weight",
+      "Ingredients",
+      "Allergens",
+      "Storage"
+    ]
+  },
+  "features": {
+    "warranty": false,
+    "heavyDelivery": false,
+    "ageCheck": true
+  },
+  "ageCheck": {
+    "minAge": 18,
+    "categories": [
+      "wines",
+      "spirits"
+    ]
+  },
+  "wording": {
+    "featured": "FEATURED",
+    "newArrivals": "NEW ARRIVALS",
+    "topSelling": "TOP SELLING",
+    "categoriesEyebrow": "Fill Your Crate",
+    "categoriesTitle": "EXPLORE BY CATEGORY",
+    "categoriesCta": "Browse All Collections",
+    "emptyCart": "Explore our snacks and drinks and fill your crate.",
+    "contactIntro": "Questions about an order, a delivery or a return? Reach us using the details below.",
+    "searchExampleShort": "chin chin",
+    "searchExampleLong": "carton of malt drink",
+    "descriptionHint": "What it is, how it tastes, pack size, how to store it…",
+    "categoryHint": "/category?cat=snacks"
+  }
+}

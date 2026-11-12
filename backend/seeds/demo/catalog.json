@@ -1,0 +1,1409 @@
+{
+  "settings": {
+    "store_name": "CRATE.CO",
+    "store_contact_email": "hello@crateco.example",
+    "store_contact_phone": "+2348000000104",
+    "store_origin_address": "31 Ogunlana Drive, Surulere",
+    "store_origin_city": "Lagos",
+    "store_origin_state": "Lagos",
+    "default_product_rating": "4.5",
+    "storefront_brands": ""
+  },
+  "zones": [
+    {
+      "name": "Lagos",
+      "states": [
+        "Lagos"
+      ],
+      "fee": 2500,
+      "estimated_days": "1 to 2 days",
+      "items_included": 6,
+      "extra_item_fee": 200,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "South West",
+      "states": [
+        "Ogun",
+        "Oyo",
+        "Osun",
+        "Ondo",
+        "Ekiti"
+      ],
+      "fee": 3500,
+      "estimated_days": "2 to 3 days",
+      "items_included": 6,
+      "extra_item_fee": 250,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Abuja and Port Harcourt",
+      "states": [
+        "FCT",
+        "Rivers"
+      ],
+      "fee": 4500,
+      "estimated_days": "2 to 4 days",
+      "items_included": 6,
+      "extra_item_fee": 300,
+      "heavy_item_fee": 0
+    },
+    {
+      "name": "Rest of Nigeria",
+      "states": [
+        "*"
+      ],
+      "fee": 6000,
+      "estimated_days": "3 to 6 days",
+      "items_included": 6,
+      "extra_item_fee": 350,
+      "heavy_item_fee": 0
+    }
+  ],
+  "promotions": [
+    {
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "min_order": 0,
+      "max_discount": 10000,
+      "description": "10% off your first order",
+      "show_on_homepage": true
+    },
+    {
+      "code": "SAVE5K",
+      "type": "fixed",
+      "value": 5000,
+      "min_order": 50000,
+      "max_discount": null,
+      "description": "₦5,000 off orders from ₦50,000",
+      "show_on_homepage": false
+    },
+    {
+      "code": "PARTY15",
+      "type": "percentage",
+      "value": 15,
+      "min_order": 80000,
+      "max_discount": 15000,
+      "description": "15% off party orders from ₦80,000",
+      "show_on_homepage": false
+    }
+  ],
+  "categories": [
+    {
+      "name": "Snacks",
+      "slug": "snacks",
+      "description": "Chin chin, plantain chips, groundnuts and other crunchy favourites.",
+      "image": "cat-snacks.webp"
+    },
+    {
+      "name": "Biscuits & Sweets",
+      "slug": "biscuits-sweets",
+      "description": "Cream biscuits, coconut candy and sweets for the tin or the lunchbox.",
+      "image": "cat-biscuits-sweets.webp"
+    },
+    {
+      "name": "Soft Drinks & Juices",
+      "slug": "soft-drinks-juices",
+      "description": "Zobo, tigernut, malt and juices by the bottle or the carton.",
+      "image": "cat-soft-drinks-juices.webp"
+    },
+    {
+      "name": "Wines",
+      "slug": "wines",
+      "description": "Red, white and sparkling wines for the table. For adults only.",
+      "image": "cat-wines.webp"
+    },
+    {
+      "name": "Spirits",
+      "slug": "spirits",
+      "description": "Whisky, gin and brandy by the bottle. For adults only.",
+      "image": "cat-spirits.webp"
+    },
+    {
+      "name": "Hampers",
+      "slug": "hampers",
+      "description": "Ready packed boxes of snacks and drinks for gifting.",
+      "image": "cat-hampers.webp"
+    }
+  ],
+  "banners": [
+    {
+      "title": "SNACKS FOR EVERY OCCASION",
+      "subtitle": "Chin chin, plantain chips and groundnuts, packed fresh and sent to your door in Lagos and beyond.",
+      "cta_text": "Shop snacks",
+      "cta_url": "/category?cat=snacks",
+      "image": "banner-1.webp"
+    },
+    {
+      "title": "COLD DRINKS BY THE CARTON",
+      "subtitle": "Zobo, tigernut, malt and juices in packs of 6, 12 and 24. Stock up for the week or the party.",
+      "cta_text": "Shop drinks",
+      "cta_url": "/category?cat=soft-drinks-juices",
+      "image": "banner-2.webp"
+    },
+    {
+      "title": "HAMPERS READY TO GIVE",
+      "subtitle": "Snacks, drinks and wine packed in one box. Wines and spirits are for customers aged 18 and over.",
+      "cta_text": "See hampers",
+      "cta_url": "/category?cat=hampers",
+      "image": "banner-3.webp"
+    }
+  ],
+  "products": [
+    {
+      "name": "Golden Chin Chin",
+      "slug": "golden-chin-chin",
+      "category": "snacks",
+      "description": "Crunchy fried chin chin made in small batches. Light, not too sweet and good with a cold drink. Comes in a resealable pouch.",
+      "price": 1200,
+      "original_price": null,
+      "style": "Everyday",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 168,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "200g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Wheat flour, sugar, butter, egg, nutmeg"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains wheat, milk and egg"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep sealed in a cool dry place"
+        }
+      ],
+      "images": [
+        "p-golden-chin-chin-1.webp",
+        "p-golden-chin-chin-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "Single",
+          "option2": "Honey",
+          "hex": "#000000",
+          "price": null,
+          "stock": 0
+        },
+        {
+          "option1": "Single",
+          "option2": "Coconut",
+          "hex": "#000000",
+          "price": null,
+          "stock": 22
+        },
+        {
+          "option1": "Pack of 3",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 3200,
+          "stock": 30
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 6000,
+          "stock": 18
+        }
+      ]
+    },
+    {
+      "name": "Ripe Plantain Chips",
+      "slug": "ripe-plantain-chips",
+      "category": "snacks",
+      "description": "Thin slices of ripe plantain, fried until crisp. Pick plain, spicy or sweet chilli. A good office snack.",
+      "price": 900,
+      "original_price": 1100,
+      "style": "Everyday",
+      "featured": true,
+      "flash_deal": true,
+      "rating_start": 4.7,
+      "units_sold": 152,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "120g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Plantain, vegetable oil, salt"
+        },
+        {
+          "name": "Allergens",
+          "value": "None"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep sealed in a cool dry place"
+        }
+      ],
+      "images": [
+        "p-ripe-plantain-chips-1.webp",
+        "p-ripe-plantain-chips-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": null,
+          "stock": 50
+        },
+        {
+          "option1": "Single",
+          "option2": "Spicy",
+          "hex": "#000000",
+          "price": null,
+          "stock": 35
+        },
+        {
+          "option1": "Single",
+          "option2": "Sweet Chilli",
+          "hex": "#000000",
+          "price": null,
+          "stock": 28
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 4800,
+          "stock": 20
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "Spicy",
+          "hex": "#000000",
+          "price": 4800,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "name": "Kuli Kuli Bites",
+      "slug": "kuli-kuli-bites",
+      "category": "snacks",
+      "description": "Crisp groundnut kuli kuli, cut into small bites. Dry, nutty and lightly spiced with ginger.",
+      "price": 800,
+      "original_price": null,
+      "style": "Everyday",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 64,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "150g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Groundnut, ginger, salt"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains groundnuts"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep sealed in a cool dry place"
+        }
+      ],
+      "images": [
+        "p-kuli-kuli-bites-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 45
+        },
+        {
+          "option1": "Pack of 3",
+          "option2": "",
+          "hex": "#000000",
+          "price": 2200,
+          "stock": 30
+        },
+        {
+          "option1": "Pack of 12",
+          "option2": "",
+          "hex": "#000000",
+          "price": 8000,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Salted Roasted Groundnuts",
+      "slug": "salted-roasted-groundnuts",
+      "category": "snacks",
+      "description": "Groundnuts roasted in the shell skin and lightly salted. A plain favourite for matches, road trips and the sitting room.",
+      "price": 1000,
+      "original_price": null,
+      "style": "Parties",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 97,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "250g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Groundnuts, salt"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains groundnuts"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep sealed in a cool dry place"
+        }
+      ],
+      "images": [
+        "p-salted-roasted-groundnuts-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 60
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 5400,
+          "stock": 25
+        },
+        {
+          "option1": "Pack of 12",
+          "option2": "",
+          "hex": "#000000",
+          "price": 10000,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "Coconut Candy Strips",
+      "slug": "coconut-candy-strips",
+      "category": "biscuits-sweets",
+      "description": "Chewy coconut candy cut into strips, made with real coconut and sugar. A sweet that many of us grew up on.",
+      "price": 600,
+      "original_price": 800,
+      "style": "Everyday",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 120,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "100g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Coconut, sugar"
+        },
+        {
+          "name": "Allergens",
+          "value": "None"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep in a cool dry place"
+        }
+      ],
+      "images": [
+        "p-coconut-candy-strips-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 55
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 3200,
+          "stock": 28
+        },
+        {
+          "option1": "Pack of 12",
+          "option2": "",
+          "hex": "#000000",
+          "price": 6000,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "name": "Butter Cream Biscuits",
+      "slug": "butter-cream-biscuits",
+      "category": "biscuits-sweets",
+      "description": "Sandwich biscuits with a soft cream filling. Choose chocolate, vanilla or strawberry. Good for school lunchboxes and tea time.",
+      "price": 700,
+      "original_price": null,
+      "style": "Everyday",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 88,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "140g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Wheat flour, sugar, vegetable fat, cocoa, flavouring"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains wheat and milk"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep sealed in a cool dry place"
+        }
+      ],
+      "images": [
+        "p-butter-cream-biscuits-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "Chocolate",
+          "hex": "#000000",
+          "price": null,
+          "stock": 50
+        },
+        {
+          "option1": "Single",
+          "option2": "Vanilla",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "Single",
+          "option2": "Strawberry",
+          "hex": "#000000",
+          "price": null,
+          "stock": 0
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "Chocolate",
+          "hex": "#000000",
+          "price": 3800,
+          "stock": 24
+        },
+        {
+          "option1": "Pack of 12",
+          "option2": "Vanilla",
+          "hex": "#000000",
+          "price": 7200,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Fruit Drops Tin",
+      "slug": "fruit-drops-tin",
+      "category": "biscuits-sweets",
+      "description": "A reusable tin of boiled fruit sweets in assorted colours. The tin keeps the sweets fresh and fits on a shelf or desk.",
+      "price": 1800,
+      "original_price": null,
+      "style": "Gifting",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 41,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Net weight",
+          "value": "400g"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Sugar, glucose syrup, fruit flavouring, colour"
+        },
+        {
+          "name": "Allergens",
+          "value": "None"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep the lid closed in a cool place"
+        }
+      ],
+      "images": [
+        "p-fruit-drops-tin-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "Pack of 3",
+          "option2": "",
+          "hex": "#000000",
+          "price": 5000,
+          "stock": 3
+        }
+      ]
+    },
+    {
+      "name": "Zobo Hibiscus Drink",
+      "slug": "zobo-hibiscus-drink",
+      "category": "soft-drinks-juices",
+      "description": "Chilled zobo brewed from dried hibiscus leaves with a little sugar. Choose plain, ginger or pineapple. Shake before opening.",
+      "price": 700,
+      "original_price": null,
+      "style": "Everyday",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 140,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "50cl"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Hibiscus, sugar, water, flavouring"
+        },
+        {
+          "name": "Allergens",
+          "value": "None"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep chilled and drink within 7 days of opening"
+        }
+      ],
+      "images": [
+        "p-zobo-hibiscus-drink-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": null,
+          "stock": 48
+        },
+        {
+          "option1": "Single",
+          "option2": "Ginger",
+          "hex": "#000000",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "Single",
+          "option2": "Pineapple",
+          "hex": "#000000",
+          "price": null,
+          "stock": 3
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 3800,
+          "stock": 22
+        },
+        {
+          "option1": "Carton of 24",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 12000,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "name": "Tigernut Milk Drink",
+      "slug": "tigernut-milk-drink",
+      "category": "soft-drinks-juices",
+      "description": "A creamy tigernut drink with dates and a hint of coconut or plain. Served cold and sold by the bottle or carton.",
+      "price": 900,
+      "original_price": null,
+      "style": "Everyday",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 73,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "50cl"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Tigernut, dates, water, coconut"
+        },
+        {
+          "name": "Allergens",
+          "value": "None"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep chilled and drink within 5 days"
+        }
+      ],
+      "images": [
+        "p-tigernut-milk-drink-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": null,
+          "stock": 36
+        },
+        {
+          "option1": "Single",
+          "option2": "Coconut",
+          "hex": "#000000",
+          "price": null,
+          "stock": 26
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 5000,
+          "stock": 18
+        },
+        {
+          "option1": "Carton of 24",
+          "option2": "Original",
+          "hex": "#000000",
+          "price": 18000,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "Dark Malt Drink",
+      "slug": "dark-malt-drink",
+      "category": "soft-drinks-juices",
+      "description": "A fizzy non alcoholic malt drink with a rich, toasted barley taste. Best served very cold.",
+      "price": 600,
+      "original_price": 800,
+      "style": "Parties",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 176,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "33cl"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Water, barley malt, sugar, carbon dioxide"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains barley"
+        },
+        {
+          "name": "Storage",
+          "value": "Store upright in a cool place"
+        }
+      ],
+      "images": [
+        "p-dark-malt-drink-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 60
+        },
+        {
+          "option1": "Pack of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 3300,
+          "stock": 40
+        },
+        {
+          "option1": "Carton of 24",
+          "option2": "",
+          "hex": "#000000",
+          "price": 12000,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "name": "Tropical Mixed Fruit Juice",
+      "slug": "tropical-mixed-fruit-juice",
+      "category": "soft-drinks-juices",
+      "description": "Juice drink made with orange, pineapple and a blend of tropical fruit. Choose a single flavour or the mix. Cartons ship well packed.",
+      "price": 1200,
+      "original_price": 1500,
+      "style": "Parties",
+      "featured": true,
+      "flash_deal": true,
+      "rating_start": 4.6,
+      "units_sold": 134,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "1 litre"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Water, fruit juice, sugar"
+        },
+        {
+          "name": "Allergens",
+          "value": "None"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep chilled after opening"
+        }
+      ],
+      "images": [
+        "p-tropical-mixed-fruit-juice-1.webp",
+        "p-tropical-mixed-fruit-juice-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "Orange",
+          "hex": "#000000",
+          "price": null,
+          "stock": 40
+        },
+        {
+          "option1": "Single",
+          "option2": "Pineapple",
+          "hex": "#000000",
+          "price": null,
+          "stock": 34
+        },
+        {
+          "option1": "Single",
+          "option2": "Mixed Fruit",
+          "hex": "#000000",
+          "price": null,
+          "stock": 45
+        },
+        {
+          "option1": "Pack of 12",
+          "option2": "Mixed Fruit",
+          "hex": "#000000",
+          "price": 13500,
+          "stock": 20
+        },
+        {
+          "option1": "Carton of 24",
+          "option2": "Mixed Fruit",
+          "hex": "#000000",
+          "price": 25000,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "Harbour Ridge Red Wine",
+      "slug": "harbour-ridge-red-wine",
+      "category": "wines",
+      "description": "A smooth, medium bodied red wine with soft berry flavours. Good with jollof rice, grilled meat or on its own. For adults aged 18 and over.",
+      "price": 9500,
+      "original_price": null,
+      "style": "Everyday",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.6,
+      "units_sold": 95,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "75cl"
+        },
+        {
+          "name": "Alcohol",
+          "value": "13% ABV"
+        },
+        {
+          "name": "Origin",
+          "value": "South Africa"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Grapes, contains sulphites"
+        },
+        {
+          "name": "Storage",
+          "value": "Store on its side in a cool place"
+        }
+      ],
+      "images": [
+        "p-harbour-ridge-red-wine-1.webp",
+        "p-harbour-ridge-red-wine-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 34
+        },
+        {
+          "option1": "Case of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 52000,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Coastal White Wine",
+      "slug": "coastal-white-wine",
+      "category": "wines",
+      "description": "A crisp, dry white wine with citrus and green apple notes. Serve chilled. For adults aged 18 and over.",
+      "price": 8500,
+      "original_price": 10500,
+      "style": "Parties",
+      "featured": false,
+      "flash_deal": true,
+      "rating_start": null,
+      "units_sold": 71,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "75cl"
+        },
+        {
+          "name": "Alcohol",
+          "value": "12% ABV"
+        },
+        {
+          "name": "Origin",
+          "value": "Chile"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Grapes, contains sulphites"
+        },
+        {
+          "name": "Storage",
+          "value": "Store in a cool place and chill before serving"
+        }
+      ],
+      "images": [
+        "p-coastal-white-wine-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 30
+        },
+        {
+          "option1": "Case of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 46000,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "name": "Rosa Sparkling Wine",
+      "slug": "rosa-sparkling-wine",
+      "category": "wines",
+      "description": "A pink sparkling wine with light strawberry notes. Popular for toasts at weddings and birthdays. For adults aged 18 and over.",
+      "price": 22000,
+      "original_price": null,
+      "style": "Celebrations",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.8,
+      "units_sold": 58,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "75cl"
+        },
+        {
+          "name": "Alcohol",
+          "value": "11.5% ABV"
+        },
+        {
+          "name": "Origin",
+          "value": "Northern Italy"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Grapes, contains sulphites"
+        },
+        {
+          "name": "Storage",
+          "value": "Store upright, chill before opening"
+        }
+      ],
+      "images": [
+        "p-rosa-sparkling-wine-1.webp",
+        "p-rosa-sparkling-wine-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 18
+        },
+        {
+          "option1": "Case of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 120000,
+          "stock": 2
+        }
+      ]
+    },
+    {
+      "name": "Highland Ember Whisky",
+      "slug": "highland-ember-whisky",
+      "category": "spirits",
+      "description": "A blended whisky aged for twelve years in oak. Smooth with vanilla and gentle smoke. Comes in a gift box. For adults aged 18 and over.",
+      "price": 38000,
+      "original_price": null,
+      "style": "Gifting",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 46,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "70cl"
+        },
+        {
+          "name": "Alcohol",
+          "value": "40% ABV"
+        },
+        {
+          "name": "Origin",
+          "value": "Scotland"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Malted barley, grain, water"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains barley"
+        }
+      ],
+      "images": [
+        "p-highland-ember-whisky-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 12
+        }
+      ]
+    },
+    {
+      "name": "Juniper Lane Dry Gin",
+      "slug": "juniper-lane-dry-gin",
+      "category": "spirits",
+      "description": "A clean dry gin with juniper, lemon peel and coriander. Serve with tonic and ice. For adults aged 18 and over.",
+      "price": 18500,
+      "original_price": 22000,
+      "style": "Parties",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 52,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "70cl"
+        },
+        {
+          "name": "Alcohol",
+          "value": "40% ABV"
+        },
+        {
+          "name": "Origin",
+          "value": "England"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Grain spirit, juniper, citrus peel, coriander"
+        },
+        {
+          "name": "Storage",
+          "value": "Store upright in a cool place"
+        }
+      ],
+      "images": [
+        "p-juniper-lane-dry-gin-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 26
+        },
+        {
+          "option1": "Case of 6",
+          "option2": "",
+          "hex": "#000000",
+          "price": 99000,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "name": "Vieille Cave Brandy",
+      "slug": "vieille-cave-brandy",
+      "category": "spirits",
+      "description": "A grape brandy aged in oak barrels for at least six years. Warm and fruity, meant for slow sipping after dinner. For adults aged 18 and over.",
+      "price": 85000,
+      "original_price": null,
+      "style": "Celebrations",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": 4.9,
+      "units_sold": 15,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Volume",
+          "value": "70cl"
+        },
+        {
+          "name": "Alcohol",
+          "value": "40% ABV"
+        },
+        {
+          "name": "Origin",
+          "value": "South West France"
+        },
+        {
+          "name": "Ingredients",
+          "value": "Grape spirit, oak aged"
+        },
+        {
+          "name": "Storage",
+          "value": "Store upright away from sunlight"
+        }
+      ],
+      "images": [
+        "p-vieille-cave-brandy-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "Single",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "name": "Family Snack Hamper",
+      "slug": "family-snack-hamper",
+      "category": "hampers",
+      "description": "A basket of chin chin, plantain chips, groundnuts, biscuits and sweets with two bottles of juice. Enough for a family for a weekend.",
+      "price": 35000,
+      "original_price": 42000,
+      "style": "Gifting",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 37,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Contents",
+          "value": "12 snack items, 2 juices"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains wheat, milk, egg and groundnuts"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep in a cool dry place"
+        },
+        {
+          "name": "Packing",
+          "value": "Gift basket with ribbon"
+        }
+      ],
+      "images": [
+        "p-family-snack-hamper-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 15
+        }
+      ]
+    },
+    {
+      "name": "Party Drinks Hamper",
+      "slug": "party-drinks-hamper",
+      "category": "hampers",
+      "description": "A crate of soft drinks, malt, juices and snack packs for a house party. Add your own wine and spirits at checkout if you like.",
+      "price": 78000,
+      "original_price": null,
+      "style": "Parties",
+      "featured": true,
+      "flash_deal": false,
+      "rating_start": 4.7,
+      "units_sold": 29,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Contents",
+          "value": "24 soft drinks, 6 snack packs"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains barley, wheat and groundnuts"
+        },
+        {
+          "name": "Storage",
+          "value": "Keep drinks chilled"
+        },
+        {
+          "name": "Packing",
+          "value": "Branded wooden crate"
+        }
+      ],
+      "images": [
+        "p-party-drinks-hamper-1.webp",
+        "p-party-drinks-hamper-2.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "name": "Celebration Wine Hamper",
+      "slug": "celebration-wine-hamper",
+      "category": "hampers",
+      "description": "Two bottles of wine, a bottle of sparkling wine, snacks and sweets in a gift box. For adults aged 18 and over.",
+      "price": 128000,
+      "original_price": null,
+      "style": "Celebrations",
+      "featured": false,
+      "flash_deal": false,
+      "rating_start": null,
+      "units_sold": 18,
+      "warranty": null,
+      "heavy": false,
+      "specifications": [
+        {
+          "name": "Contents",
+          "value": "2 wines, 1 sparkling wine, 6 snack items"
+        },
+        {
+          "name": "Alcohol",
+          "value": "11.5% to 13% ABV"
+        },
+        {
+          "name": "Allergens",
+          "value": "Contains sulphites, wheat and milk"
+        },
+        {
+          "name": "Packing",
+          "value": "Gift box with card"
+        }
+      ],
+      "images": [
+        "p-celebration-wine-hamper-1.webp"
+      ],
+      "variants": [
+        {
+          "option1": "",
+          "option2": "",
+          "hex": "#000000",
+          "price": null,
+          "stock": 6
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "product": "golden-chin-chin",
+      "name": "Amaka E.",
+      "rating": 5,
+      "title": "Fresh and crunchy",
+      "body": "Bought the pack of 3 for my kids. Gone in two days. Not too sweet and no stale taste."
+    },
+    {
+      "product": "golden-chin-chin",
+      "name": "Tunde B.",
+      "rating": 4,
+      "title": "Good but pouch is small",
+      "body": "Taste is lovely. I wish the single pouch was a bit bigger for the price."
+    },
+    {
+      "product": "ripe-plantain-chips",
+      "name": "Zainab M.",
+      "rating": 5,
+      "title": "Spicy one is great",
+      "body": "The spicy flavour has a proper kick. Arrived whole, nothing crushed."
+    },
+    {
+      "product": "dark-malt-drink",
+      "name": "Ifeanyi O.",
+      "rating": 5,
+      "title": "Carton came cold ready",
+      "body": "Ordered a carton for my sister's birthday. Delivered on time and the bottles were all intact."
+    },
+    {
+      "product": "tropical-mixed-fruit-juice",
+      "name": "Blessing A.",
+      "rating": 4,
+      "title": "Good for parties",
+      "body": "Ordered the pack of 12 for a naming ceremony. Guests finished it. A little sweet for me."
+    },
+    {
+      "product": "zobo-hibiscus-drink",
+      "name": "Funke A.",
+      "rating": 5,
+      "title": "Tastes homemade",
+      "body": "Ginger one is my favourite. Very close to what my mother makes."
+    },
+    {
+      "product": "harbour-ridge-red-wine",
+      "name": "Emeka N.",
+      "rating": 4,
+      "title": "Easy to drink",
+      "body": "Bought for a dinner with friends. Smooth and not too heavy. Good price for a bottle."
+    },
+    {
+      "product": "rosa-sparkling-wine",
+      "name": "Hauwa S.",
+      "rating": 5,
+      "title": "Perfect for our toast",
+      "body": "Used it for my cousin's engagement. Packed well and arrived cold enough after a night in the fridge."
+    },
+    {
+      "product": "butter-cream-biscuits",
+      "name": "Chiamaka U.",
+      "rating": 3,
+      "title": "Okay, filling a bit dry",
+      "body": "The chocolate one is fine but the cream was drier than I expected. Kids still ate them."
+    },
+    {
+      "product": "party-drinks-hamper",
+      "name": "Seyi L.",
+      "rating": 5,
+      "title": "Saved me before the party",
+      "body": "Everything came in one crate. Easy to carry and my guests had plenty to drink."
+    }
+  ]
+}
