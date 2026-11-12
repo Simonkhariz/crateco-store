@@ -1331,7 +1331,8 @@
           "price": null,
           "stock": 6
         }
-      ]
+      ],
+      "age_restricted": true
     }
   ],
   "reviews": [

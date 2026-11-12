@@ -32,7 +32,8 @@
       "Carton of 24",
       "Case of 6"
     ],
-    "help": ""
+    "help": "",
+    "helpByCategory": {}
   },
   "option2": {
     "label": "Flavour",
@@ -46,6 +47,7 @@
     "label": "Occasion",
     "plural": "Occasions",
     "short": "Occasion",
+    "heading": "Occasion: {value}",
     "browseTitle": "SHOP BY OCCASION",
     "values": [
       "Everyday",
