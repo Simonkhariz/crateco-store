@@ -9,7 +9,7 @@
     "title": "STOCK UP FOR EVERY OCCASION",
     "subtitle": "Snacks, soft drinks, juices, wines and hampers by the pack or the carton. Order once and we bring it to your door.",
     "cta": "Shop Now",
-    "image": "/images/hero/hero.webp",
+    "image": "https://images.unsplash.com/photo-1781559311498-743642b8b0fb?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fHNuYWNrcyUyMGFuZCUyMGRyaW5rcyUyMHRhYmxlfGVufDF8MHx8fDE3OTQ0NTYzMTZ8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
     "cutout": false
   },
   "theme": {
@@ -56,10 +56,10 @@
       "Celebrations"
     ],
     "images": {
-      "everyday": "/images/styles/everyday.webp",
-      "parties": "/images/styles/parties.webp",
-      "gifting": "/images/styles/gifting.webp",
-      "celebrations": "/images/styles/celebrations.webp"
+      "everyday": "https://images.unsplash.com/photo-1701342372112-f21dfbd169e4?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8ZnJpZWQlMjBzbmFja3MlMjBib3dsfGVufDF8fHx8MTc5NDQ1NjE4Nnww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "parties": "https://images.unsplash.com/photo-1601050690071-24ba38add243?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjR8fGZyaWVkJTIwc25hY2tzJTIwYm93bHxlbnwxfHx8fDE3OTQ0NTYxODZ8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "gifting": "https://images.unsplash.com/photo-1725721685456-65707da925f3?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjR8fGdpZnQlMjBoYW1wZXIlMjBiYXNrZXR8ZW58MXx8fHwxNzk0NDU2Mjk3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg",
+      "celebrations": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8d2luZSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTYyNjF8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   },
   "specs": {

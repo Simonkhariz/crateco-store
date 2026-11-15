@@ -94,37 +94,37 @@
       "name": "Snacks",
       "slug": "snacks",
       "description": "Chin chin, plantain chips, groundnuts and other crunchy favourites.",
-      "image": "cat-snacks.webp"
+      "image": "https://images.unsplash.com/photo-1577835371994-379cc06f1fe5?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjJ8fHBsYW50YWluJTIwY2hpcHN8ZW58MXx8fHwxNzk0NDU2MTY3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Biscuits & Sweets",
       "slug": "biscuits-sweets",
       "description": "Cream biscuits, coconut candy and sweets for the tin or the lunchbox.",
-      "image": "cat-biscuits-sweets.webp"
+      "image": "https://images.unsplash.com/photo-1534119428213-bd2626145164?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8Y2FuZHklMjBzd2VldHN8ZW58MXx8fHwxNzk0NDU2MjI0fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Soft Drinks & Juices",
       "slug": "soft-drinks-juices",
       "description": "Zobo, tigernut, malt and juices by the bottle or the carton.",
-      "image": "cat-soft-drinks-juices.webp"
+      "image": "https://images.unsplash.com/photo-1650547001322-145ff2c0bed7?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8anVpY2UlMjBib3R0bGVzfGVufDF8fHx8MTc5NDQ1NjI0Mnww&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Wines",
       "slug": "wines",
       "description": "Red, white and sparkling wines for the table. For adults only.",
-      "image": "cat-wines.webp"
+      "image": "https://images.unsplash.com/photo-1554230561-31bdc707b537?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjB8fHdpbmUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU2MjYxfDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Spirits",
       "slug": "spirits",
       "description": "Whisky, gin and brandy by the bottle. For adults only.",
-      "image": "cat-spirits.webp"
+      "image": "https://images.unsplash.com/photo-1653087639770-82ca6a956d5b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjJ8fHdoaXNreSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTYyNzh8MA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "name": "Hampers",
       "slug": "hampers",
       "description": "Ready packed boxes of snacks and drinks for gifting.",
-      "image": "cat-hampers.webp"
+      "image": "https://images.unsplash.com/photo-1639727833014-fe8b438e4c27?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjh8fGdpZnQlMjBoYW1wZXIlMjBiYXNrZXR8ZW58MXx8fHwxNzk0NDU2Mjk3fDA&ixlib=rb-4.1.0&w=900&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "banners": [
@@ -133,21 +133,21 @@
       "subtitle": "Chin chin, plantain chips and groundnuts, packed fresh and sent to your door in Lagos and beyond.",
       "cta_text": "Shop snacks",
       "cta_url": "/category?cat=snacks",
-      "image": "banner-1.webp"
+      "image": "https://images.unsplash.com/photo-1758705207198-ea3145c96a93?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fHNuYWNrcyUyMGFuZCUyMGRyaW5rcyUyMHRhYmxlfGVufDF8MHx8fDE3OTQ0NTYzMTZ8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "COLD DRINKS BY THE CARTON",
       "subtitle": "Zobo, tigernut, malt and juices in packs of 6, 12 and 24. Stock up for the week or the party.",
       "cta_text": "Shop drinks",
       "cta_url": "/category?cat=soft-drinks-juices",
-      "image": "banner-2.webp"
+      "image": "https://images.unsplash.com/photo-1523648844676-9af10ab24955?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTd8fGp1aWNlJTIwYm90dGxlc3xlbnwxfHx8fDE3OTQ0NTYyNDJ8MA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     },
     {
       "title": "HAMPERS READY TO GIVE",
       "subtitle": "Snacks, drinks and wine packed in one box. Wines and spirits are for customers aged 18 and over.",
       "cta_text": "See hampers",
       "cta_url": "/category?cat=hampers",
-      "image": "banner-3.webp"
+      "image": "https://images.unsplash.com/photo-1773441791213-87f874074691?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjl8fGdpZnQlMjBoYW1wZXIlMjBiYXNrZXR8ZW58MXx8fHwxNzk0NDU2Mjk3fDA&ixlib=rb-4.1.0&w=1600&h=900&fit=crop&crop=entropy&q=80&fm=jpg"
     }
   ],
   "products": [
@@ -184,8 +184,8 @@
         }
       ],
       "images": [
-        "p-golden-chin-chin-1.webp",
-        "p-golden-chin-chin-2.webp"
+        "https://images.unsplash.com/photo-1788180075027-cb565f63e206?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8ZnJpZWQlMjBzbmFja3MlMjBib3dsfGVufDF8fHx8MTc5NDQ1NjE4Nnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1788180074988-3332f56d625a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjJ8fGZyaWVkJTIwc25hY2tzJTIwYm93bHxlbnwxfHx8fDE3OTQ0NTYxODZ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -258,8 +258,8 @@
         }
       ],
       "images": [
-        "p-ripe-plantain-chips-1.webp",
-        "p-ripe-plantain-chips-2.webp"
+        "https://images.unsplash.com/photo-1738986586823-bba0e1c11372?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fHBsYW50YWluJTIwY2hpcHN8ZW58MXx8fHwxNzk0NDU2MTY3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1649431473478-2768c3f21c6d?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTN8fHBsYW50YWluJTIwY2hpcHN8ZW58MXx8fHwxNzk0NDU2MTY3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -332,7 +332,7 @@
         }
       ],
       "images": [
-        "p-kuli-kuli-bites-1.webp"
+        "https://images.unsplash.com/photo-1742811893131-6a694b66aded?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8ZnJpZWQlMjBzbmFja3MlMjBib3dsfGVufDF8fHx8MTc5NDQ1NjE4Nnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -391,7 +391,7 @@
         }
       ],
       "images": [
-        "p-salted-roasted-groundnuts-1.webp"
+        "https://images.unsplash.com/photo-1742524252643-d1f3fddd8cca?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8M3x8cm9hc3RlZCUyMHBlYW51dHMlMjBib3dsfGVufDF8fHx8MTc5NDUyODg1OXww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -450,7 +450,7 @@
         }
       ],
       "images": [
-        "p-coconut-candy-strips-1.webp"
+        "https://images.unsplash.com/photo-1690896055141-5671a284eb4f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjl8fHRvYXN0ZWQlMjBjb2NvbnV0JTIwZmxha2VzfGVufDF8fHx8MTc5NDUyODY4OHww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -509,7 +509,7 @@
         }
       ],
       "images": [
-        "p-butter-cream-biscuits-1.webp"
+        "https://images.unsplash.com/photo-1621353354739-1420ff28ead9?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8YmlzY3VpdHMlMjBjb29raWVzfGVufDF8fHx8MTc5NDQ1NjIwNnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -582,7 +582,7 @@
         }
       ],
       "images": [
-        "p-fruit-drops-tin-1.webp"
+        "https://images.unsplash.com/photo-1588755821761-a4d1eafe2b19?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTV8fGNhbmR5JTIwc3dlZXRzfGVufDF8fHx8MTc5NDQ1NjIyNHww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -634,7 +634,7 @@
         }
       ],
       "images": [
-        "p-zobo-hibiscus-drink-1.webp"
+        "https://images.unsplash.com/photo-1765118527329-6ed7fa0d10ac?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTJ8fGhpYmlzY3VzJTIwdGVhJTIwZHJpbmt8ZW58MXx8fHwxNzk0NTI5MjA2fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -707,7 +707,7 @@
         }
       ],
       "images": [
-        "p-tigernut-milk-drink-1.webp"
+        "https://images.unsplash.com/photo-1712056407271-e51fdc896637?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Nnx8c25hY2tzJTIwYW5kJTIwZHJpbmtzJTIwdGFibGV8ZW58MXwwfHx8MTc5NDQ1NjMxNnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -773,7 +773,7 @@
         }
       ],
       "images": [
-        "p-dark-malt-drink-1.webp"
+        "https://images.unsplash.com/photo-1718210719980-1f159546aeb2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MzB8fGp1aWNlJTIwYm90dGxlc3xlbnwxfHx8fDE3OTQ0NTYyNDJ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -832,8 +832,8 @@
         }
       ],
       "images": [
-        "p-tropical-mixed-fruit-juice-1.webp",
-        "p-tropical-mixed-fruit-juice-2.webp"
+        "https://images.unsplash.com/photo-1603569283847-aa295f0d016a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8anVpY2UlMjBib3R0bGVzfGVufDF8fHx8MTc5NDQ1NjI0Mnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1562153877-9976f7f0833b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8N3x8anVpY2UlMjBib3R0bGVzfGVufDF8fHx8MTc5NDQ1NjI0Mnww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -910,8 +910,8 @@
         }
       ],
       "images": [
-        "p-harbour-ridge-red-wine-1.webp",
-        "p-harbour-ridge-red-wine-2.webp"
+        "https://images.unsplash.com/photo-1592845148519-b0d41df97ac2?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fHdpbmUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU2MjYxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1638186095900-179bc805de09?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTF8fHdpbmUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU2MjYxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -967,7 +967,7 @@
         }
       ],
       "images": [
-        "p-coastal-white-wine-1.webp"
+        "https://images.unsplash.com/photo-1611571940159-425a28706d6f?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8OXx8d2luZSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTYyNjF8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1023,8 +1023,8 @@
         }
       ],
       "images": [
-        "p-rosa-sparkling-wine-1.webp",
-        "p-rosa-sparkling-wine-2.webp"
+        "https://images.unsplash.com/photo-1614208406223-5b78888e8b4b?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTh8fHdpbmUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU2MjYxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1769140243164-b677642e9279?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MjZ8fHdpbmUlMjBib3R0bGV8ZW58MXx8fHwxNzk0NDU2MjYxfDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1080,7 +1080,7 @@
         }
       ],
       "images": [
-        "p-highland-ember-whisky-1.webp"
+        "https://images.unsplash.com/photo-1602166242292-93a00e63e8e8?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8NXx8d2hpc2t5JTIwYm90dGxlfGVufDF8fHx8MTc5NDQ1NjI3OHww&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1129,7 +1129,7 @@
         }
       ],
       "images": [
-        "p-juniper-lane-dry-gin-1.webp"
+        "https://images.unsplash.com/photo-1648147562507-e286d0785723?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjl8fHdoaXNreSUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ0NTYyNzh8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1185,7 +1185,7 @@
         }
       ],
       "images": [
-        "p-vieille-cave-brandy-1.webp"
+        "https://images.unsplash.com/photo-1546540749-3229ce1f48da?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mnx8bGlxdW9yJTIwZGVjYW50ZXJ8ZW58MXx8fHwxNzk0NTI4NTQ0fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1230,7 +1230,7 @@
         }
       ],
       "images": [
-        "p-family-snack-hamper-1.webp"
+        "https://images.unsplash.com/photo-1773450970959-cef81e9b1053?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MXx8Z2lmdCUyMGhhbXBlciUyMGJhc2tldHxlbnwxfHx8fDE3OTQ0NTYyOTd8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1275,8 +1275,8 @@
         }
       ],
       "images": [
-        "p-party-drinks-hamper-1.webp",
-        "p-party-drinks-hamper-2.webp"
+        "https://images.unsplash.com/photo-1764977018452-80f4cf8d558e?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTZ8fHNuYWNrcyUyMGFuZCUyMGRyaW5rcyUyMHRhYmxlfGVufDF8MHx8fDE3OTQ0NTYzMTZ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg",
+        "https://images.unsplash.com/photo-1589948100953-963e39185fd6?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8MTB8fGp1aWNlJTIwYm90dGxlc3xlbnwxfHx8fDE3OTQ0NTYyNDJ8MA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
@@ -1321,7 +1321,7 @@
         }
       ],
       "images": [
-        "p-celebration-wine-hamper-1.webp"
+        "https://images.unsplash.com/photo-1695149271965-37475f0a746a?ixid=M3wxMTMxMTE3fDB8MXxzZWFyY2h8Mjd8fGdpZnQlMjBoYW1wZXIlMjBiYXNrZXR8ZW58MXx8fHwxNzk0NDU2Mjk3fDA&ixlib=rb-4.1.0&w=1000&h=1000&fit=crop&crop=entropy&q=80&fm=jpg"
       ],
       "variants": [
         {
